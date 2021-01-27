@@ -1,0 +1,54 @@
+.namenav{
+    height : 75px;
+    overflow: hidden;
+    background-color: rgba(184, 184, 184, 0.911);
+    font-size: 60px;
+    font-family: 'Potta One', cursive;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+h2{
+    font-size: 40px;
+    margin-left: 35%;
+    font-family: 'Potta One', cursive;
+    font-weight: lighter;
+}
+
+p{
+    font-size: 40px;
+    font-family:'Potta One',cursive;
+    padding-left: 25%;
+    
+}
+.card{
+    margin-left: 20%;
+}
+a{
+    color: rgb(105, 44, 44);
+}
+a:hover {
+    color: hotpink;
+  }
+a:link {
+    text-decoration: none;
+  }
+  .float{
+	position:fixed;
+	width:80px;
+	height:80px;
+	bottom:60px;
+	right:60px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:50px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
